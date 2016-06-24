@@ -9,6 +9,7 @@ addons:
     - ubuntu-toolchain-r-test
     packages:
     - g++-4.8
+    - libzmq3-dev
 before_script:
 - npm install -g gulp
 script: gulp build
