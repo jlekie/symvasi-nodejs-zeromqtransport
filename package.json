@@ -1,5 +1,5 @@
 {
-    "name": "symvasi-runtime-zeromqtransport",
+    "name": "symvasi-runtime-zmq",
     "description": "Symvasi runtimes - ZeroMQ Transport",
     "version": "0.0.1",
     
